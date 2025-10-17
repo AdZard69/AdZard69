@@ -1,4 +1,3 @@
-# Hi, I'm AdZard! 👋
 
 <!-- View Counter -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AdZard69.AdZard69" />
