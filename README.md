@@ -13,7 +13,7 @@
 </h1>
 
 ## 🧠 About Me:
-🎓 **AdZard** — pursuing **Computer Science Engineering**, exploring the limitless world of technology. 
+🎓 **ME** — gamer, programmer, designer  
 
 > “No man is free who is not master of himself.” – Epictetus 
 
