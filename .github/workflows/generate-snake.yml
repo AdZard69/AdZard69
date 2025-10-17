@@ -1,12 +1,14 @@
 # .github/workflows/generate-snake.yml
 # Generates GitHub contributions "snake" SVG(s) and commits them into output/ on main.
 name: Generate GitHub Contributions Snake
-
 on:
   schedule:
     # Runs daily at 00:00 UTC (change cron if you want)
     - cron: '0 0 * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -16,7 +18,8 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
       - name: Generate snake SVGs
         uses: platane/snk@v3
         with:
@@ -26,20 +29,22 @@ jobs:
           outputs: |
             output/github-snake.svg
             output/github-snake-dark.svg
-
+      
       - name: Commit and push generated SVGs (if changed)
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
           # Ensure we include any new files under output/
           git add output || true
+          
           # If nothing staged, exit
           if git diff --staged --quiet; then
             echo "No changes to commit"
             exit 0
           fi
+          
           git commit -m "chore: update generated GitHub contributions snake SVGs"
+          
           # Push to main
           git push origin HEAD:main
