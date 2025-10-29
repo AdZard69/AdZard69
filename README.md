@@ -2,6 +2,8 @@
 
 <img width="1267" height="208" alt="image" src="https://github.com/user-attachments/assets/406d9522-2add-4a62-b79e-46d2660f0f9d" />
 
+
+
 ```console
 adzard@archbtw:~$ neofetch
 
@@ -95,11 +97,20 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
   </details>
 
 
-  
-  
+<details>
+  <summary>
+    🖌️ Some Cool Arts Designed By Me!
+  </summary>
+  <div>
+    <img width="1427" height="320" alt="image" src="https://github.com/user-attachments/assets/eb44738a-72fd-48cc-9e41-20a22fabb6cf" />
+<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/2b16db4f-60d7-4f5d-9700-b7218b5a2943" />
+<img width="1440" height="480" alt="image" src="https://github.com/user-attachments/assets/115cee60-7b9d-430a-be51-421b58c8e2cb" />
+<img align="center" width="1920" height="1080" alt="fireballs 6" src="https://github.com/user-attachments/assets/59617de7-3ccf-4dbc-9f6d-8c35fbf3978f" />
 
 
 
+  </div>
+</details>
 
 
 
