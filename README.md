@@ -1,8 +1,39 @@
 
+
+<img width="1267" height="208" alt="image" src="https://github.com/user-attachments/assets/406d9522-2add-4a62-b79e-46d2660f0f9d" />
+
+```console
+adzard@archbtw:~$ neofetch
+
+                   .~vVeZNgQBBBQQg9Ze1v~.
+              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 adzard@archbtw
+           -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -----------------------
+        .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           OS: GNU/Linux
+      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Uptime: 69 years
+    `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       Packages: 1030 (pacman)
+   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: /bin/zsh
+  ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: many , can't type
+ :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    ------------------------
+_g@@@@@@@@@@2-                                `M@@@@@@@@@@0
+a@@@@@@@@@@2                                    v@@@@@@@@@@;   contact information
+#@@@@@@@@@@_                                     @@@@@@@@@@y   -------------------
+@@@@@@@@@@@.                                     @@@@@@@@@@%   Website:adzard-portfolio.cercel.app
+#@@@@@@@@@@r                                    :@@@@@@@@@@s   Github: AdZard69
+W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
+~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    device specifications
+ ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~    ---------------------
+  n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n     CPU: Normal Human Brain
+   2#@@@#hr _Y#@@@@@@@#q`          `X#@@@@@@@@@@@@@@@@@#~
+    .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.
+      x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=
+        =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=
+          `vR#@@@@@@@@?              M@@@@@@@@#Pv`
+              "Lf8@@@@v              q@@@#Qa?:
+                  -!v|`              _?v!`
+```
+
 <!-- View Counter -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AdZard69.AdZard69" />
-
-
 
 <!-- Typing Animation -->
 <h1 align="center">
