@@ -52,6 +52,9 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
   <summary>💻 GitHub Profile Stats</summary>
   <!-- View Counter -->
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=AdZard69.AdZard69" />
+  
+
+
   <div>
   <samp>
     <h2 align="center"> Github Stats </h2>
@@ -199,3 +202,10 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 </div>
 
 ---
+<h2 align="center">🏅 Holopin Badges 🏅</h2>
+
+<p align="center">
+  <a href="https://holopin.io/@adzard69">
+    <img src="https://holopin.me/adzard69" alt="@adzard69's Holopin badges" />
+  </a>
+</p>
