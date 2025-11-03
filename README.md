@@ -1,5 +1,3 @@
-
-
 <img width="1267" height="208" alt="image" src="https://github.com/user-attachments/assets/406d9522-2add-4a62-b79e-46d2660f0f9d" />
 
 
@@ -34,8 +32,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
                   -!v|`              _?v!`
 ```
 
-<details>
-  <summary>🧮 About</summary>
+## 🧮 About
 <div>
 <samp>
 <h2 align="center">Helpful Links</h2>
@@ -46,74 +43,61 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
   </p>
  </samp>
 </div>
-</details>
   
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
+## 💻 GitHub Profile Stats
   <!-- View Counter -->
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=AdZard69.AdZard69" />
   
 
 
-  <div>
+<div>
   <samp>
     <h2 align="center"> Github Stats </h2>
       <br/>
-    <details open>
-  <summary><h3>Languages</h3></summary>
-            <p align="center">
-        <a href="https://github.com/AdZard69/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdZard69&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="AdZard :: overall Top Langs " /></a>
-      </p>
-        <p align="center">
-          <a href="https://github.com/AdZard69/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdZard69&theme=gruvbox&layout=compact&hide_border=true"
-          alt="AdZard :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdZard69&theme=gruvbox&layout=compact&hide_border=true"
-          alt="AdZard :: Top Langs by commit" />
-          </a>
-        </p>
-</details>
-    <details open>
-  <summary><h3>stasistic</h3></summary>
-        <p align="center">
-          <a href="https://github.com/AdZard69/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AdZard69&show_icons=true&theme=rose_pine&hide_border=true" />
-          <!-- <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MannuVilasara&theme=rose-pine&hide_border=true" /> -->
-          </a>
-       </p>
-     <br>
-     </samp>
-  </div>    
-</details>
+    
+### Languages
+<p align="center">
+  <a href="https://github.com/AdZard69/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdZard69&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+    alt="AdZard :: overall Top Langs " /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/AdZard69/">
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdZard69&theme=gruvbox&layout=compact&hide_border=true"
+  alt="AdZard :: Top Langs by repo" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdZard69&theme=gruvbox&layout=compact&hide_border=true"
+  alt="AdZard :: Top Langs by commit" />
+  </a>
+</p>
 
-<details>
-  <summary>📈 Latest Activity Graph</summary>
-  <samp>
-  <br/>
-  <h2 align="center"> latest contribution </h2>
+### Statistics
+<p align="center">
+  <a href="https://github.com/AdZard69/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AdZard69&show_icons=true&theme=rose_pine&hide_border=true" />
+  <!-- <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MannuVilasara&theme=rose-pine&hide_border=true" /> -->
+  </a>
+</p>
+<br>
+  </samp>
+</div>    
+
+## 📈 Latest Activity Graph
+<samp>
+<br/>
+<h2 align="center"> latest contribution </h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img alt="azzar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=AdZard69&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 <br/>
-  </samp>
-  </details>
+</samp>
 
 
-<details>
-  <summary>
-    🖌️ Some Cool Arts Designed By Me!
-  </summary>
-  <div>
-    <img width="1427" height="320" alt="image" src="https://github.com/user-attachments/assets/eb44738a-72fd-48cc-9e41-20a22fabb6cf" />
-<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/2b16db4f-60d7-4f5d-9700-b7218b5a2943" />
-<img width="1440" height="480" alt="image" src="https://github.com/user-attachments/assets/115cee60-7b9d-430a-be51-421b58c8e2cb" />
-<img align="center" width="1920" height="1080" alt="fireballs 6" src="https://github.com/user-attachments/assets/59617de7-3ccf-4dbc-9f6d-8c35fbf3978f" />
-
-
-
-  </div>
-</details>
+## 🖌️ Some Cool Arts Designed By Me!
+<div>
+  <img width="1427" height="320" alt="image" src="https://github.com/user-attachments/assets/eb44738a-72fd-48cc-9e41-20a22fabb6cf" />
+  <img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/2b16db4f-60d7-4f5d-9700-b7218b5a2943" />
+  <img width="1440" height="480" alt="image" src="https://github.com/user-attachments/assets/115cee60-7b9d-430a-be51-421b58c8e2cb" />
+  <img align="center" width="1920" height="1080" alt="fireballs 6" src="https://github.com/user-attachments/assets/59617de7-3ccf-4dbc-9f6d-8c35fbf3978f" />
+</div>
 
 
 
@@ -132,19 +116,18 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 
 <!-- <div align="center">
   
-  🌱 I’m currently exploring **life** :eyes:
+  🌱 I'm currently exploring **life** :eyes:
 
-  🔭 I’m currently working on **Personal Projects**
+  🔭 I'm currently working on **Personal Projects**
 
   💬 Ask me about , ,  or anything else [here](https://github.com/AdZard69/AdZard69/issues)
 
-  👯 I’m looking to collaborate on **Various New and Creative Projects**
+  👯 I'm looking to collaborate on **Various New and Creative Projects**
   
 </div> -->
 
-<details>
- <summary>👤 Contact Me</summary>
-  <div align="center">
+## 👤 Contact Me
+<div align="center">
   <h2 style="display:inline-block;">📫 How to reach me:</h2>
   <a href="mailto:adzardeventshub@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -154,19 +137,14 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
   </a>
 </div>
 
-</details>
 
-
-<details>
-  <summary> ⚒️ Languages · Frameworks · Tools ⚒️</summary> 
+## ⚒️ Languages · Frameworks · Tools ⚒️
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ps,pr" ><br>
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,threejs,typescript,express,firebase,mongodb,c,java,nextjs,mysql,py,mint,cpp" /><br>
 </div>
-
-</details>
 
 
 <!-- GitHub Stats -->
