@@ -17,7 +17,7 @@ adzard@archbtw:~$ neofetch
 _g@@@@@@@@@@2-                                `M@@@@@@@@@@0
 a@@@@@@@@@@2                                    v@@@@@@@@@@;   contact information
 #@@@@@@@@@@_                                     @@@@@@@@@@y   -------------------
-@@@@@@@@@@@.                                     @@@@@@@@@@%   Website:adzard-portfolio.cercel.app
+@@@@@@@@@@@.                                     @@@@@@@@@@%   Website:adzard-portfolio.vercel.app
 #@@@@@@@@@@r                                    :@@@@@@@@@@s   Github: AdZard69
 W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 ~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    device specifications
