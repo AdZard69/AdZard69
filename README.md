@@ -176,6 +176,8 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
     <source srcset="https://raw.githubusercontent.com/AdZard69/AdZard69/main/output/github-snake-dark.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
     <source srcset="https://raw.githubusercontent.com/AdZard69/AdZard69/main/output/github-snake-dark.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
     <img src="https://raw.githubusercontent.com/AdZard69/AdZard69/main/output/github-snake-dark.svg" alt="GitHub contributions snake" />
+    <img width="1920" height="1080" alt="miyamoto_D" src="https://github.com/user-attachments/assets/29951a39-7477-471e-ab3e-0d9510966e31" />
+
   </picture>
 </div>
 
