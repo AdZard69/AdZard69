@@ -97,6 +97,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
   <img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/2b16db4f-60d7-4f5d-9700-b7218b5a2943" />
   <img width="1440" height="480" alt="image" src="https://github.com/user-attachments/assets/115cee60-7b9d-430a-be51-421b58c8e2cb" />
   <img align="center" width="1920" height="1080" alt="fireballs 6" src="https://github.com/user-attachments/assets/59617de7-3ccf-4dbc-9f6d-8c35fbf3978f" />
+  <img width="1920" height="1080" alt="miyamoto_D" src="https://github.com/user-attachments/assets/29951a39-7477-471e-ab3e-0d9510966e31" />
 </div>
 
 
@@ -176,7 +177,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
     <source srcset="https://raw.githubusercontent.com/AdZard69/AdZard69/main/output/github-snake-dark.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
     <source srcset="https://raw.githubusercontent.com/AdZard69/AdZard69/main/output/github-snake-dark.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
     <img src="https://raw.githubusercontent.com/AdZard69/AdZard69/main/output/github-snake-dark.svg" alt="GitHub contributions snake" />
-    <img width="1920" height="1080" alt="miyamoto_D" src="https://github.com/user-attachments/assets/29951a39-7477-471e-ab3e-0d9510966e31" />
+    
 
   </picture>
 </div>
